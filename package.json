@@ -1,0 +1,26 @@
+{
+  "name": "ctoa-policy-proposal",
+  "version": "1.0.0",
+  "description": "日本CTO協会として社会や行政・政府に対しての提言をまとめたもの。",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx textlint ./**/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cto-a/policy-proposal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cto-a/policy-proposal/issues"
+  },
+  "homepage": "https://github.com/cto-a/policy-proposal#readme",
+  "devDependencies": {
+    "textlint": "^11.7.6",
+    "textlint-rule-preset-ja-spacing": "^2.0.2",
+    "textlint-rule-preset-ja-technical-writing": "^4.0.1",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
