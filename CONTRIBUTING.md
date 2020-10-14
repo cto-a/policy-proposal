@@ -1,3 +1,5 @@
+<!-- textlint-disable ja-technical-writing/max-kanji-continuous-len) -->
+
 # このリポジトリへのコントリビューションについて
 
 ## 0. はじめに
