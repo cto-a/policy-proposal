@@ -10,4 +10,4 @@
 
 ## ポリシーへの同意
 
-- [ ] 「[このリポジトリへのコントリビューションについて](https://github.com/cto-a/policy-proposal/blob/master/CONTRIBUTING.md)」に記載されたポリシーに同意します。
+- [ ] 「[このリポジトリへのコントリビューションについて](https://github.com/cto-a/policy-proposal/blob/master/CONTRIBUTING.md)」に記載されたポリシーについて同意します。
