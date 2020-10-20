@@ -22,5 +22,8 @@
     "textlint-rule-preset-ja-spacing": "^2.0.2",
     "textlint-rule-preset-ja-technical-writing": "^4.0.1",
     "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  },
+  "dependencies": {
+    "textlint-filter-rule-comments": "^1.2.2"
   }
 }
