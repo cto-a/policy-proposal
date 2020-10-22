@@ -3,6 +3,8 @@
 
 本提言は下記、日本CTO協会理事一同により作成され提言するものとなります。
 
+<!-- textlint-disable ja-technical-writing/ja-no-mixed-period -->
+<!-- textlint-disable ja-spacing/ja-no-space-between-full-width -->
 CTO協会理事
 
 - 松岡 剛志 代表理事
@@ -28,6 +30,8 @@ CTO協会理事
 - 町野 明徳
 - 松尾 直幸
 - 若井 信一郎
+<!-- textlint-enable ja-spacing/ja-no-space-between-full-width -->
+<!-- textlint-enable ja-technical-writing/ja-no-mixed-period -->
 
 ## 本提言の目的
 
